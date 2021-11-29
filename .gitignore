@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+ChairSkirtHouse/log.txt
+ChairSkirtHouse/game/cache/shaders.txt
+ChairSkirtHouse/game/saves/persistent
